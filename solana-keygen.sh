@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Jumlah wallet yang ingin dibuat
-jumlah_wallet=7
+jumlah_wallet=5
 
 # Loop untuk membuat wallet
 for ((i=1; i<=jumlah_wallet; i++))
