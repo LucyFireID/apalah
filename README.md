@@ -41,6 +41,8 @@ Cara nutup vim editor, pencet esc di keyboard 1x lalu
 :wq
 ```
 
+Ulangin cara nge vim buat backup semua wallet lu pada.
+
 # claim.sh
 Ini script buat WD otomatis semua wallet. Mending lu lakuin tutor ini kalau lu gatau apa-apa.
 Semua file .json wajib ada di (~/.config/solana).
