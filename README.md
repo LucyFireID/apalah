@@ -1,7 +1,7 @@
 # YANG PERLU DIPERHATIKAN SEBELUM PAKAI! GW SARANIN LU PADA CATET
 
 Download semua file ini dengan cara klik tombol CODE dan pilih DOWNLOAD ZIP.
-Buka filenya pake VSCode atau Notepad.
+Buka filenya pake VSCode atau Notepad. Untuk konek ke vps wajib pake Termius.
 
 ## solana-keygen.sh
 Ini script buat generate banyak wallet sekaligus. Mending lu lakuin tutor ini kalau lu gatau apa-apa.
@@ -20,7 +20,19 @@ Kalau udah selesai semua, masuk ke directory .json yang baru digenerate.
 cd ~/.config/solana
 ```
 
-lalu 
+lalu
+```
+ls
+```
+
+Harusnya lu sekarang bisa liat ada liat file dengan ekstensi .json, tugas lu sekarang ngebackup PrivKey nya dan import ke Solflare (wajib Solflare gausa tanya kenapa).
+
+Misal nama filenya 'baru1.json' lu ketik
+```
+vim baru1.json
+```
+
+Blok pake kursor semua teks nya yang [123.123.123.123.xxx]
 
 ## claim.sh
 Ini script buat WD otomatis semua wallet. Mending lu lakuin tutor ini kalau lu gatau apa-apa.
