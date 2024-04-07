@@ -3,6 +3,10 @@
 Download semua file ini dengan cara klik tombol CODE dan pilih DOWNLOAD ZIP.
 Buka filenya pake VSCode atau Notepad.
 
+## solana-keygen.sh
+Ini script buat generate banyak wallet sekaligus. Mending lu lakuin tutor ini kalau lu gatau apa-apa.
+Semua file .json hasil generate ada di (~/.config/solana).
+
 ## claim.sh
 Ini script buat WD otomatis semua wallet. Mending lu lakuin tutor ini kalau lu gatau apa-apa.
 Semua file .json wajib ada di (~/.config/solana).
@@ -31,5 +35,5 @@ Keenam, pantau semua wallet lu. Kalau semua wallet dah landing matiin scriptnya.
 kill xxxxxx
 ```
 ## mine.sh
-Ini script buat WD otomatis. Mending lu lakuin tutor ini kalau lu gatau apa-apa.
+Ini script buat mulai mining semua wallet otomatis. Mending lu lakuin tutor ini kalau lu gatau apa-apa.
 Semua file .json wajib ada di (~/.config/solana).
