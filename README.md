@@ -13,7 +13,14 @@ Lu ubah berapa wallet yang mau digenerate dibagian:
 Lu ubah juga nama walletnya bagian: Note! Hanya diperbolehkan mengubah teks 'baru' dilarang mengubang kode $i dan tanpa spasi.
 (nama_wallet="baru$i")
 
-Copy paste script ke vps lalu enter. Nanti bakal disuru masukin BIP39 phrase tinggal enter2 aja sampe selesai, pastikan untuk ngebackup pubkey yang muncul.
+Copy paste script ke vps lalu enter. Nanti bakal disuru masukin BIP39 phrase tinggal enter2 aja sampe selesai, pastikan untuk ngebackup pubkey yang muncul. Pubkey ini ya address SOL wallet.
+
+Kalau udah selesai semua, masuk ke directory .json yang baru digenerate.
+```
+cd ~/.config/solana
+```
+
+lalu 
 
 ## claim.sh
 Ini script buat WD otomatis semua wallet. Mending lu lakuin tutor ini kalau lu gatau apa-apa.
