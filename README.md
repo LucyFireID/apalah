@@ -3,7 +3,7 @@
 Download semua file ini dengan cara klik tombol CODE dan pilih DOWNLOAD ZIP.
 Buka filenya pake VSCode atau Notepad. Untuk konek ke vps wajib pake Termius.
 
-## solana-keygen.sh
+# solana-keygen.sh
 Ini script buat generate banyak wallet sekaligus. Mending lu lakuin tutor ini kalau lu gatau apa-apa.
 Semua file .json hasil generate ada di (~/.config/solana).
 
@@ -41,7 +41,7 @@ Cara nutup vim editor, pencet esc di keyboard 1x lalu
 :wq
 ```
 
-## claim.sh
+# claim.sh
 Ini script buat WD otomatis semua wallet. Mending lu lakuin tutor ini kalau lu gatau apa-apa.
 Semua file .json wajib ada di (~/.config/solana).
 
@@ -68,6 +68,6 @@ Keenam, pantau semua wallet lu. Kalau semua wallet dah landing matiin scriptnya.
 ```
 kill xxxxxx
 ```
-## mine.sh
+# mine.sh
 Ini script buat mulai mining semua wallet otomatis. Mending lu lakuin tutor ini kalau lu gatau apa-apa.
 Semua file .json wajib ada di (~/.config/solana).
