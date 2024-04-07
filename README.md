@@ -32,7 +32,14 @@ Misal nama filenya 'baru1.json' lu ketik
 vim baru1.json
 ```
 
-Blok pake kursor semua teks nya yang [123.123.123.123.xxx]
+Blok pake kursor semua teks nya yang [123.123.123.123.xxx]. Copy teksnya dengan cara ctrl+shift+c lalu paste ke notepad.
+
+Kalau udah, import ke Solflare.
+
+Cara nutup vim editor, pencet esc di keyboard 1x lalu
+```
+:wq
+```
 
 ## claim.sh
 Ini script buat WD otomatis semua wallet. Mending lu lakuin tutor ini kalau lu gatau apa-apa.
