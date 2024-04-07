@@ -4,7 +4,7 @@ Download semua file ini dengan cara klik tombol CODE dan pilih DOWNLOAD ZIP.
 Buka filenya pake VSCode atau Notepad.
 
 ## claim.sh
-Ini script buat WD otomatis. Mending lu lakuin tutor ini kalau lu gatau apa-apa.
+Ini script buat WD otomatis semua wallet. Mending lu lakuin tutor ini kalau lu gatau apa-apa.
 Semua file .json wajib ada di (~/.config/solana).
 
 Pertama, lu edit RPC script pake QuickNode punya lu.
@@ -26,7 +26,10 @@ Kelima, buka sectionnya buat cek jalan apa kagak. Biasanya awal ada error dikit,
 screen -r WD
 ```
 
-Keenam, pantau semua wallet lu. Kalau semua wallet dah landing matiin scriptnya. code xxxxxx ini id screen WD tadi.
+Keenam, pantau semua wallet lu. Kalau semua wallet dah landing matiin scriptnya. Code xxxxxx ini id screen WD tadi.
 ```
 kill xxxxxx
 ```
+## mine.sh
+Ini script buat WD otomatis. Mending lu lakuin tutor ini kalau lu gatau apa-apa.
+Semua file .json wajib ada di (~/.config/solana).
