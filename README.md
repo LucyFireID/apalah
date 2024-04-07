@@ -1,4 +1,4 @@
-# YANG PERLU DIPERHATIKAN SEBELUM PAKAI! GW SARANIN LU PADA CATET
+# YANG PERLU DIPERHATIKAN SEBELUM PAKAI! GW SANGAT NGEWAJIBIN LU PADA BACA DULU! LU PADA CATET!
 
 Download semua file ini dengan cara klik tombol CODE dan pilih DOWNLOAD ZIP.
 Buka filenya pake VSCode atau Notepad. Untuk konek ke vps wajib pake Termius.
