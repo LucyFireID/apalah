@@ -7,6 +7,14 @@ Buka filenya pake VSCode atau Notepad.
 Ini script buat generate banyak wallet sekaligus. Mending lu lakuin tutor ini kalau lu gatau apa-apa.
 Semua file .json hasil generate ada di (~/.config/solana).
 
+Lu ubah berapa wallet yang mau digenerate dibagian:
+(jumlah_wallet=5)
+
+Lu ubah juga nama walletnya bagian: Note! Hanya diperbolehkan mengubah teks 'baru' dilarang mengubang kode $i dan tanpa spasi.
+(nama_wallet="baru$i")
+
+Copy paste script ke vps lalu enter. Nanti bakal disuru masukin BIP39 phrase tinggal enter2 aja sampe selesai, pastikan untuk ngebackup pubkey yang muncul.
+
 ## claim.sh
 Ini script buat WD otomatis semua wallet. Mending lu lakuin tutor ini kalau lu gatau apa-apa.
 Semua file .json wajib ada di (~/.config/solana).
